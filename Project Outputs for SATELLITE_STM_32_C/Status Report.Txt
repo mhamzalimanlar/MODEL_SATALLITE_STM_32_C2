@@ -1,0 +1,13 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:06:53 PM On 10/4/2022
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of BOM Document [SATELLITE_STM_32_C.BomDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 3:06:54 PM On 10/4/2022

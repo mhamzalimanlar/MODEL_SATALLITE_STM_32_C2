@@ -1,0 +1,16 @@
+Added Component: Designator=U5(BMP280)
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=NetJ5_7 Pin=U5-2
+Added Pin To Net: NetName=NetJ5_3 Pin=U5-3
+Added Pin To Net: NetName=NetU1_26 Pin=U5-4
+Added Pin To Net: NetName=NetJ5_5 Pin=U5-5
+Added Pin To Net: NetName=3V3 Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=3V3 Pin=U5-8
+Added Pin To Net: NetName=3V3 Pin=U5-8
+Added Member To Class: ClassName=SATALLITE Member=Component U5 BMP280

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=D1 Old Footprint=D_AX04_DO41 New Footprint=D_SMA
+Change component parameters: Designator = "D1" ("D1"); Footprint = "D_AX04_DO41"; UniqueID = "\TQJHUJZG" ("\TQJHUJZG")
+Change component parameters (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF"; Value = "Kingtronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MANF_P#"; Value = "M7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM"; Value = "1000V VRRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PARAM2"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VALUE"; Value = "1N4007"; VariantName = "[No Variations]"

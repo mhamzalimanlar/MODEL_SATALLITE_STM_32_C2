@@ -1,0 +1,10 @@
+Added Component: Designator=J7(Header 2.54 1x3)
+Added Pin To Net: NetName=5V Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=U1-40
+Added Net: Name=NetJ7_1
+Change Class Name : Old Net Name=STM_32_Flight_LOG New Net Name=SATALLITE
+Added Member To Class: ClassName=SATALLITE Member=Component J7 Header 2.54 1x3
+Change Room Name: Old Name=STM_32_Flight_LOG New Name=SATALLITE
+Change Room Scope: Old Scope=InComponentClass('STM_32_Flight_LOG') New Scope=InComponentClass('SATALLITE')

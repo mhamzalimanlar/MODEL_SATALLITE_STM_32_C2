@@ -1,0 +1,6 @@
+Added Component: Designator=Y1(8 MHZ Osc.)
+Added Pin To Net: NetName=NetC11_1 Pin=Y1-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=NetC12_1 Pin=Y1-3
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Member To Class: ClassName=SATALLITE Member=Component Y1 8 MHz 12.5 pf Osc

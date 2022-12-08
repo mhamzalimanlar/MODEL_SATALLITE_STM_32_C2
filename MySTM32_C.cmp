@@ -1,0 +1,60 @@
+Component Name : LQFP48-STM32
+
+Part Count : 2
+
+Part : U?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?
+     Pins - (Normal) : 48
+          VBAT           1              Passive
+          PC13-TAMPER-RTC2              Passive
+          PC14-OSC32_IN  3              Passive
+          PC15-OSC32_OUT 4              Passive
+          PD0-OSC_IN     5              Passive
+          PD1-OSC_OUT    6              Passive
+          NRST           7              Passive
+          VSSA           8              Passive
+          VDDA           9              Passive
+          PA0-WKUP       10             Passive
+          PA1            11             Passive
+          PA2            12             Passive
+          PA3            13             Passive
+          PA4            14             Passive
+          PA5            15             Passive
+          PA6            16             Passive
+          PA7            17             Passive
+          PB0            18             Passive
+          PB1            19             Passive
+          PB2            20             Passive
+          PB10           21             Passive
+          PB11           22             Passive
+          VSS_1          23             Passive
+          VDD_1          24             Passive
+          PB12           25             Passive
+          PB13           26             Passive
+          PB14           27             Passive
+          PB15           28             Passive
+          PA8            29             Passive
+          PA9            30             Passive
+          PA10           31             Passive
+          PA11           32             Passive
+          PA12           33             Passive
+          PA13           34             Passive
+          VSS_2          35             Passive
+          VDD_2          36             Passive
+          PA14           37             Passive
+          PA15           38             Passive
+          PB3            39             Passive
+          PB4            40             Passive
+          PB5            41             Passive
+          PB6            42             Passive
+          PB7            43             Passive
+          BOOT0          44             Passive
+          PB8            45             Passive
+          PB9            46             Passive
+          VSS_3          47             Passive
+          VDD_3          48             Passive
+          Hidden Pins : 
+

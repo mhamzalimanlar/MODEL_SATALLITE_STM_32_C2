@@ -1,0 +1,5 @@
+Move Component Origin to Grid
+Filename     : C:\Users\Public\Documents\Altium\Projects\MODEL_SATALLITE_STM_32_C\STM_32_C.PcbDoc
+Date         : 10/17/2022
+Time         : 10:18:34 AM
+Time Elapsed : 00:00:00
